@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">onboardingFood</string>
+    <string name="heading_one">Zell Food</string>
+    <string name="desc_one">makan makanan yang enak dimanapun dan kapanpun</string>
+    <string name="heading_two">Instant Notifications</string>
+    <string name="desc_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="heading_three">Cashless Payment</string>
+    <string name="desc_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="heading_fourth">Pay Anywhere</string>
+    <string name="desc_fourth">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+</resources>
